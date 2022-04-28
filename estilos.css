@@ -1,0 +1,21 @@
+body {
+	background: black;
+}
+
+body {
+	font-family: 'Tapestry', cursive;
+}
+
+.menu li {
+	display: inline-block;
+	margin: 20px;
+}
+
+.etiquetas {
+	display: inline-block;
+	margin: 20px;
+}
+
+header {
+	background: darkblue;
+}
