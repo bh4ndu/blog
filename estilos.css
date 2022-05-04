@@ -19,3 +19,8 @@ body {
 header {
 	background: darkblue;
 }
+
+.caja {
+	border: 2px solid white;
+	margin-bottom: 20px;
+}
