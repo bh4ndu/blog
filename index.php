@@ -39,7 +39,7 @@
 	<br>
 	todos los derechos reservados ©
 	<br>
-	2021
+	2022
 	<br>
 	"que tenga un buen dia!"
 	<br>
